@@ -1,0 +1,3 @@
+numpy
+pygame
+# can` 1 cai dau` thong minh

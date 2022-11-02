@@ -6,7 +6,7 @@
 **Hướng dẫn**
 
 Để clone repo:
-> git clone https://github.com/thin9/IE221.M21.git
+> git clone https://github.com/xuanbach0212/IE207.N11.git
 
 Chạy game bằng cmd:
 > python main.py
